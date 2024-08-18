@@ -1,0 +1,5 @@
+C:\Users\11592\Desktop\学员管理项目\ProjectUITeach\CourseManageModels\bin\Debug\CourseManageModels.dll
+C:\Users\11592\Desktop\学员管理项目\ProjectUITeach\CourseManageModels\bin\Debug\CourseManageModels.pdb
+C:\Users\11592\Desktop\学员管理项目\ProjectUITeach\CourseManageModels\obj\Debug\CourseManageModels.csproj.CoreCompileInputs.cache
+C:\Users\11592\Desktop\学员管理项目\ProjectUITeach\CourseManageModels\obj\Debug\CourseManageModels.dll
+C:\Users\11592\Desktop\学员管理项目\ProjectUITeach\CourseManageModels\obj\Debug\CourseManageModels.pdb

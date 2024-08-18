@@ -1,0 +1,9 @@
+C:\Users\11592\Desktop\学员管理项目\ProjectUITeach\CourseManageDAL\bin\Debug\CourseManageDAL.dll
+C:\Users\11592\Desktop\学员管理项目\ProjectUITeach\CourseManageDAL\bin\Debug\CourseManageDAL.pdb
+C:\Users\11592\Desktop\学员管理项目\ProjectUITeach\CourseManageDAL\bin\Debug\CourseManageModels.dll
+C:\Users\11592\Desktop\学员管理项目\ProjectUITeach\CourseManageDAL\bin\Debug\CourseManageModels.pdb
+C:\Users\11592\Desktop\学员管理项目\ProjectUITeach\CourseManageDAL\obj\Debug\CourseManageDAL.csprojAssemblyReference.cache
+C:\Users\11592\Desktop\学员管理项目\ProjectUITeach\CourseManageDAL\obj\Debug\CourseManageDAL.csproj.CoreCompileInputs.cache
+C:\Users\11592\Desktop\学员管理项目\ProjectUITeach\CourseManageDAL\obj\Debug\CourseManageDAL.csproj.CopyComplete
+C:\Users\11592\Desktop\学员管理项目\ProjectUITeach\CourseManageDAL\obj\Debug\CourseManageDAL.dll
+C:\Users\11592\Desktop\学员管理项目\ProjectUITeach\CourseManageDAL\obj\Debug\CourseManageDAL.pdb
